@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at BscScan.com on 2022-03-03
-*/
-
 // SPDX-License-Identifier: MIT
 // File: @openzeppelin/contracts@4.5.0/utils/math/SafeCast.sol
 
